@@ -1,8 +1,32 @@
 [
   {
-    "image_path": "/images/demo.webp",
-    "display_name": "Demo Droplet",
-    "container_docker_image": "flowcase/test:latest",
-    "description": "This is the description for Demo Droplet"
+    "image_path": "https://registry.flowcase.org/images/doom.png",
+    "display_name": "Doom",
+    "container_docker_image": "flowcaseweb/doom:latest",
+    "description": "DOOM is a classic first-person shooter game developed by id Software. This container provides a ready-to-run version of the original DOOM game."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/discord.png",
+    "display_name": "Discord",
+    "container_docker_image": "flowcaseweb/discord:latest",
+    "description": "Discord is a VoIP, instant messaging, and digital distribution platform designed for creating communities. It provides voice calls, video calls, text messaging, and file sharing."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/parsec.png",
+    "display_name": "Parsec",
+    "container_docker_image": "flowcaseweb/parsec:latest",
+    "description": "Parsec is a proprietary desktop capture application primarily used for gaming. It allows users to stream and play games remotely."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/ubuntu.png",
+    "display_name": "Ubuntu Focal Deluxe",
+    "container_docker_image": "flowcaseweb/ubuntu-focal-deluxe:latest",
+    "description": "Ubuntu Focal Deluxe is an enhanced version of Ubuntu 20.04 LTS, providing extra tools and optimizations for development and deployment."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/ubuntu.png",
+    "display_name": "Core Ubuntu Focal",
+    "container_docker_image": "flowcaseweb/core-ubuntu-focal:latest",
+    "description": "Core Ubuntu Focal is a minimalistic version of Ubuntu 20.04 LTS, optimized for use as a base image in containers."
   }
 ]
