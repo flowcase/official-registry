@@ -3,112 +3,112 @@
     "image_path": "https://registry.flowcase.org/images/doom.png",
     "display_name": "Doom",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/doom:0.1.0",
+    "container_docker_image": "flowcaseweb/doom:0.2.0",
     "description": "DOOM is a classic first-person shooter game developed by id Software."
   },
   {
     "image_path": "https://registry.flowcase.org/images/discord.png",
     "display_name": "Discord",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/discord:0.1.0",
+    "container_docker_image": "flowcaseweb/discord:0.2.0",
     "description": "Discord is a VoIP, instant messaging, and digital distribution platform designed for creating communities."
   },
   {
     "image_path": "https://registry.flowcase.org/images/parsec.png",
     "display_name": "Parsec",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/parsec:0.1.0",
+    "container_docker_image": "flowcaseweb/parsec:0.2.0",
     "description": "Parsec is a proprietary desktop capture application primarily used for gaming. It allows users to stream and play games remotely."
   },
   {
     "image_path": "https://registry.flowcase.org/images/ubuntu.png",
     "display_name": "Ubuntu Focal Deluxe",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/ubuntu-focal-deluxe:0.1.0",
+    "container_docker_image": "flowcaseweb/ubuntu-focal-deluxe:0.2.0",
     "description": "Ubuntu Focal Deluxe contains a collection of popular software applications and tools for developers and enthusiasts."
   },
   {
     "image_path": "https://registry.flowcase.org/images/steam.png",
     "display_name": "Steam",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/steam:0.1.0",
+    "container_docker_image": "flowcaseweb/steam:0.2.0",
     "description": "Steam is a digital distribution platform developed by Valve Corporation, offering digital rights management, multiplayer gaming, video streaming, and social networking services."
   },
   {
     "image_path": "https://registry.flowcase.org/images/supertuxkart.png",
     "display_name": "SuperTuxKart",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/super-tux-kart:0.1.0",
+    "container_docker_image": "flowcaseweb/super-tux-kart:0.2.0",
     "description": "SuperTuxKart is a free and open-source kart racing game, distributed under the terms of the GNU General Public License."
   },
   {
     "image_path": "https://registry.flowcase.org/images/blender.png",
     "display_name": "Blender",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/blender:0.1.0",
+    "container_docker_image": "flowcaseweb/blender:0.2.0",
     "description": "Blender is a free and open-source 3D computer graphics software toolset."
   },
   {
     "image_path": "https://registry.flowcase.org/images/edge.png",
     "display_name": "Edge",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/edge:0.1.0",
+    "container_docker_image": "flowcaseweb/edge:0.2.0",
     "description": "Microsoft Edge is a cross-platform web browser developed by Microsoft."
   },
   {
     "image_path": "https://registry.flowcase.org/images/brave.png",
     "display_name": "Brave",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/brave:0.1.0",
+    "container_docker_image": "flowcaseweb/brave:0.2.0",
     "description": "Brave is a free and open-source web browser developed by Brave Software, Inc."
   },
   {
     "image_path": "https://registry.flowcase.org/images/audacity.png",
     "display_name": "Audacity",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/audacity:0.1.0",
+    "container_docker_image": "flowcaseweb/audacity:0.2.0",
     "description": "Audacity is a free and open-source digital audio editor and recording application software."
   },
   {
     "image_path": "https://registry.flowcase.org/images/filezilla.png",
     "display_name": "FileZilla",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/filezilla:0.1.0",
+    "container_docker_image": "flowcaseweb/filezilla:0.2.0",
     "description": "FileZilla is a free and open-source, cross-platform FTP application software."
   },
   {
     "image_path": "https://registry.flowcase.org/images/deluge.png",
     "display_name": "Deluge",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/deluge:0.1.0",
+    "container_docker_image": "flowcaseweb/deluge:0.2.0",
     "description": "Deluge is a free and open-source, cross-platform BitTorrent client software."
   },
   {
     "image_path": "https://registry.flowcase.org/images/minetest.png",
     "display_name": "Minetest",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/minetest:0.1.0",
+    "container_docker_image": "flowcaseweb/minetest:0.2.0",
     "description": "Minetest is a free and open-source voxel game engine and game."
   },
   {
     "image_path": "https://registry.flowcase.org/images/chrome.png",
     "display_name": "Chrome",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/chrome:0.1.0",
+    "container_docker_image": "flowcaseweb/chrome:0.2.0",
     "description": "Google Chrome is a cross-platform web browser developed by Google."
   },
   {
     "image_path": "https://registry.flowcase.org/images/chromium.png",
     "display_name": "Chromium",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/chromium:0.1.0",
+    "container_docker_image": "flowcaseweb/chromium:0.2.0",
     "description": "Chromium is a free and open-source web browser developed by The Chromium Project."
   },
   {
     "image_path": "https://registry.flowcase.org/images/firefox.png",
     "display_name": "Firefox",
     "container_docker_registry": "https://index.docker.io/v1/",
-    "container_docker_image": "flowcaseweb/firefox:0.1.0",
+    "container_docker_image": "flowcaseweb/firefox:0.2.0",
     "description": "Mozilla Firefox is a free and open-source web browser developed by the Mozilla Foundation."
   }
 ]
