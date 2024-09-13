@@ -110,5 +110,152 @@
     "container_docker_registry": "https://index.docker.io/v1/",
     "container_docker_image": "flowcaseweb/firefox:0.2.0",
     "description": "Mozilla Firefox is a free and open-source web browser developed by the Mozilla Foundation."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/thunderbird.png",
+    "display_name": "Thunderbird",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/thunderbird:0.2.0",
+    "description": "Mozilla Thunderbird is a free and open-source cross-platform email client, news client, RSS, and chat client developed by the Mozilla Foundation."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/inkscape.png",
+    "display_name": "Inkscape",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/inkscape:0.2.0",
+    "description": "Inkscape is a free and open-source vector graphics editor."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/gimp.png",
+    "display_name": "GIMP",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/gimp:0.2.0",
+    "description": "GIMP is a free and open-source raster graphics editor."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/vlc.png",
+    "display_name": "VLC",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/vlc:0.2.0",
+    "description": "VLC media player is a free and open-source portable cross-platform media player software."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/hunchly.png",
+    "display_name": "Hunchly",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/hunchly:0.2.0",
+    "description": "Hunchly is a web archiving tool that captures and stores web pages as you browse."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/libre_office.png",
+    "display_name": "LibreOffice",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/libre-office:0.2.0",
+    "description": "LibreOffice is a free and open-source office suite."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/maltego.png",
+    "display_name": "Maltego",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/maltego:0.2.0",
+    "description": "Maltego is an open-source intelligence and forensics application."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/only_office.png",
+    "display_name": "OnlyOffice",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/only-office:0.2.0",
+    "description": "OnlyOffice is an open-source office suite and productivity suite."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/pinta.png",
+    "display_name": "Pinta",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/pinta:0.2.0",
+    "description": "Pinta is a free, open-source bitmap image drawing and editing program."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/postman.png",
+    "display_name": "Postman",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/postman:0.2.0",
+    "description": "Postman is a collaboration platform for API development."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/qbittorrent.png",
+    "display_name": "qBittorrent",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/qbittorrent:0.2.0",
+    "description": "qBittorrent is a free and open-source BitTorrent client."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/remmina.png",
+    "display_name": "Remmina",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/remmina:0.2.0",
+    "description": "Remmina is a remote desktop client written in GTK."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/retroarch.png",
+    "display_name": "RetroArch",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/retroarch:0.2.0",
+    "description": "RetroArch is a free, open-source and cross-platform front-end for emulators, game engines, video games, media players and other applications."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/signal.png",
+    "display_name": "Signal",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/signal:0.2.0",
+    "description": "Signal is a cross-platform encrypted messaging service."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/slack.png",
+    "display_name": "Slack",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/slack:0.2.0",
+    "description": "Slack is a proprietary business communication platform."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/sublime_text.png",
+    "display_name": "Sublime Text",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/sublime-text:0.2.0",
+    "description": "Sublime Text is a shareware cross-platform source code editor."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/terminal.png",
+    "display_name": "Terminal",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/terminal:0.2.0",
+    "description": "Terminal is a terminal emulator for Unix-like operating systems."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/tor.png",
+    "display_name": "Tor Browser",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/tor-browser:0.2.0",
+    "description": "Tor Browser is a free and open-source web browser for enabling anonymous communication."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/vivaldi.png",
+    "display_name": "Vivaldi",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/vivaldi:0.2.0",
+    "description": "Vivaldi is a freeware, cross-platform web browser developed by Vivaldi Technologies."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/visual_studio_code.png",
+    "display_name": "Visual Studio Code",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/vs-code:0.2.0",
+    "description": "Visual Studio Code is a free source-code editor made by Microsoft."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/zoom.png",
+    "display_name": "Zoom",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/zoom:0.2.0",
+    "description": "Zoom is a proprietary video teleconferencing software program."
   }
 ]
