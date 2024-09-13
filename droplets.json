@@ -245,7 +245,7 @@
     "description": "Vivaldi is a freeware, cross-platform web browser developed by Vivaldi Technologies."
   },
   {
-    "image_path": "https://registry.flowcase.org/images/visual_studio_code.png",
+    "image_path": "https://registry.flowcase.org/images/vscode.png",
     "display_name": "Visual Studio Code",
     "container_docker_registry": "https://index.docker.io/v1/",
     "container_docker_image": "flowcaseweb/vs-code:0.2.0",
