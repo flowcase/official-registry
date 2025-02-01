@@ -48,6 +48,28 @@
     "description": "Ubuntu Focal Deluxe contains a collection of popular software applications and tools for developers and enthusiasts."
   },
   {
+    "image_path": "https://registry.flowcase.org/images/ubuntu.png",
+    "display_name": "Ubuntu Jammy Deluxe",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/ubuntu-jammy-deluxe",
+    "container_docker_tags": [
+      "0.3.0",
+      "develop"
+    ],
+    "description": "Ubuntu Jammy Deluxe contains a collection of popular software applications and tools for developers and enthusiasts."
+  },
+  {
+    "image_path": "https://registry.flowcase.org/images/ubuntu.png",
+    "display_name": "Ubuntu Noble Deluxe",
+    "container_docker_registry": "https://index.docker.io/v1/",
+    "container_docker_image": "flowcaseweb/ubuntu-noble-deluxe",
+    "container_docker_tags": [
+      "0.3.0",
+      "develop"
+    ],
+    "description": "Ubuntu noble Deluxe contains a collection of popular software applications and tools for developers and enthusiasts."
+  },
+  {
     "image_path": "https://registry.flowcase.org/images/steam.png",
     "display_name": "Steam",
     "container_docker_registry": "https://index.docker.io/v1/",
