@@ -141,6 +141,7 @@
     "container_docker_registry": "https://index.docker.io/v1/",
     "container_docker_image": "flowcaseweb/brave",
     "container_docker_tags": [
+      "0.4.0",
       "0.3.0",
       "0.2.0",
       "0.1.0",
@@ -382,6 +383,7 @@
     "container_docker_registry": "https://index.docker.io/v1/",
     "container_docker_image": "flowcaseweb/qbittorrent",
     "container_docker_tags": [
+      "0.4.0",
       "0.3.0",
       "0.2.0",
       "develop"
@@ -485,6 +487,7 @@
     "container_docker_registry": "https://index.docker.io/v1/",
     "container_docker_image": "flowcaseweb/vivaldi",
     "container_docker_tags": [
+      "0.4.0",
       "0.3.0",
       "0.2.0",
       "develop"
